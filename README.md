@@ -1,2 +1,2 @@
 # TukarGinjalmu
-Proyek e-commerce sederhana yang menjual macam-macam alat elektronik.
+TukarGinjalmu adalah proyek web e-commerce sederhana yang menjual bermacam-macam alat elektronik.
