@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. 575px
+
+******************************/
+
+/************
+1. 575px
+************/
+
+@media only screen and (max-width: 575px)
+{
+	.contact_form_title
+	{
+		font-size: 24px;
+	}
+	.input_field
+	{
+		height: 40px;
+		line-height: 40px;
+		margin-bottom: 24px;
+	}
+	.input_field::-webkit-input-placeholder,
+	.text_field::-webkit-input-placeholder
+	{
+		font-size: 13px;
+	}
+	.input_field:-moz-placeholder,
+	.text_field:-moz-placeholder
+	{
+		font-size: 13px;
+	}
+	.input_field::-moz-placeholder,
+	.text_field::-moz-placeholder
+	{
+		font-size: 13px;
+	} 
+	.input_field:-ms-input-placeholder,
+	.text_field:-ms-input-placeholder
+	{ 
+		font-size: 13px;
+	}
+	.input_field::input-placeholder,
+	.text_field::input-placeholder
+	{
+		font-size: 13px;
+	}
+	.contact_submit_button
+	{
+		font-size: 13px;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+}
