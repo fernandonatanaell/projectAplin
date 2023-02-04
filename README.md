@@ -1,5 +1,8 @@
-# TukarGinjalmu
-TukarGinjalmu adalah proyek web e-commerce sederhana yang menjual bermacam-macam alat elektronik.
+<h1>About TukarGinjalmu</h1>
+TukarGinjalmu adalah sebuah web E-commerce sederhana yang menjual bermacam-macam alat elektronik, seperti handphone, kamera, TWS, dan banyak lagi. Website ini merupakan hasil dari salah satu tugas mata kuliah yang bernama "Aplikasi Internet".
 
-# Link Website Setelah Di Hosting
+<h3>Link hosting website</h3>
 <a href="http://tukarginjalmu.great-site.net/">http://tukarginjalmu.great-site.net/</a>
+
+<h3>Link Github asli yang digunakan pada saat pengerjaan</h3>
+<a href="https://github.com/Ztrohub/proyekAplin">https://github.com/Ztrohub/proyekAplin/</a>
