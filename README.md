@@ -3,6 +3,3 @@ TukarGinjalmu adalah sebuah web E-commerce sederhana yang menjual bermacam-macam
 
 <h3>Link hosting website</h3>
 <a href="http://tukarginjalmu.great-site.net/">http://tukarginjalmu.great-site.net/</a>
-
-<h3>Link Github asli yang digunakan pada saat pengerjaan</h3>
-<a href="https://github.com/Ztrohub/proyekAplin">https://github.com/Ztrohub/proyekAplin/</a>
